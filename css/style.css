@@ -259,3 +259,10 @@ img {
 .curso:last-of-type {
     border: none;
 }
+
+/*Entrada*/
+
+.entradas__contenido {
+    font-family: var(--fuenteParrafos);
+    font-size: 1.8rem;
+}
